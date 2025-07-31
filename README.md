@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A Student Developer in Glasgow!</h3>
 
-- 🔭 I’m currently working on **My HND Graded Unit**
-
-- 🌱 I’m currently learning **.Net, Entity Framework, C#**
+- Currently Studying my BSc(hons) in Glasgow!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
