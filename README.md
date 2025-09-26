@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A Student Developer in Glasgow!</h3>
 
-- Currently Studying my BSc(hons) in Glasgow!
+- Currently Studying my BSc(hons) for Software Development at Glasgow Caledonian Univercity!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
