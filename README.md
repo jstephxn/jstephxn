@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Stephen</h1>
 <h3 align="center">A passionate Software Development student from Scotland, currently studying my BAhons at GCU!</h3>
 
-- 🔭 I’m currently working on [Download Analysis Application for Grammarsaurus](https://github.com/jstephxn/Download-Counter)
+- 🔭 I’m currently working on [A Website for a Yoga Studio]([https://github.com/jstephxn/Download-Counter](https://github.com/jstephxn/WebDev-CourseWork))
 
 - 🌱 I’m currently learning **Docker, Data Science with Python, and PHP.**
 
